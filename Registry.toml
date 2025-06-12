@@ -1,0 +1,6 @@
+name = "MyJuliaRegistry"
+uuid = "4cb3ea66-6044-4c59-8581-44fb59a0b20a"
+repo = "https://github.com/benninkrs/MyJuliaRegistry.jl"
+description = "Ryan S. Bennink's personal Julia registry"
+
+[packages]
