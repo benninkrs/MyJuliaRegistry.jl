@@ -1,1 +1,1 @@
-This repository serves as a registry for Julia projects by [benninkrs](https://github.com/benninkrs) that are not registered in Julia's [general registry](https://github.com/JuliaRegistries/General).   It is managed using [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl). 
+This repository serves as a registry for Julia projects by [benninkrs](https://github.com/benninkrs) that are not in Julia's general registry.   It is managed using [LocalRegistry.jl](https://github.com/GunnarFarneback/LocalRegistry.jl). 
