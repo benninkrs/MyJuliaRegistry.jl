@@ -1,0 +1,3 @@
+name = "AlgebraicTensors"
+uuid = "4f6a5be9-6cd1-4bca-9e4c-190b27da7509"
+repo = "https://github.com/benninkrs/AlgebraicTensors.jl"
