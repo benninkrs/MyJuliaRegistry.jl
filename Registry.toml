@@ -5,4 +5,5 @@ description = "Ryan S. Bennink's personal Julia registry"
 
 [packages]
 2532fb96-5642-438b-b515-97252d17ad77 = { name = "SuperTuples", path = "S/SuperTuples" }
+35096534-6a70-4072-b012-2b6df64b3c53 = { name = "MiscUtils", path = "M/MiscUtils" }
 4f6a5be9-6cd1-4bca-9e4c-190b27da7509 = { name = "AlgebraicTensors", path = "A/AlgebraicTensors" }
